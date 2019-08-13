@@ -1,4 +1,4 @@
-package my.vlong.java.trainning;
+package my.vlong.java.training;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
