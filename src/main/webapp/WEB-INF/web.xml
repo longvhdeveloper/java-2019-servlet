@@ -20,7 +20,7 @@
         <filter-class>my.vlong.java.training.filter.MyFilter2</filter-class>
         <init-param>
             <param-name>construction</param-name>
-            <param-value>yes</param-value>
+            <param-value>no</param-value>
         </init-param>
     </filter>
 
